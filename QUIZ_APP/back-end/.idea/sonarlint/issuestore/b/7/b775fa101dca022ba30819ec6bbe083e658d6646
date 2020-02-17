@@ -1,0 +1,6 @@
+
+wsquid:UselessImportCheck"GRemove this unused import 'com.workfront.quiz.entity.SmallImageEntity'.(™°¤–ùÿÿÿÿ8šÍ¼ñ„.
+msquid:UselessImportCheck"BRemove this unused import 'com.workfront.quiz.entity.ImageEntity'.(Øà˜¢8šÍ¼ñ„.
+Rsquid:S2201T"/The return value of "orElseThrow" must be used.(ð•ÂŒýÿÿÿÿ8ü‘œñ„.
+ksquid:S00112²"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ8ü‘œñ„.
+Psquid:S1135Z"2Complete the task associated to this TODO comment.(Ô”å‰8ü‘œñ„.

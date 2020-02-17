@@ -1,0 +1,4 @@
+
+isquid:UselessImportCheck"ERemove this unused import 'com.workfront.quiz.entity.enums.UserRole'.(™‹ιθ
+Xsquid:S1126z"AReplace this if-then-else statement by a single return statement.(¬’©
+Rsquid:S1068"6Remove this unused "userDetailsService" private field.(©Ι›ϋÿÿÿÿ
